@@ -7,6 +7,10 @@
 
     } else if($_POST["resta"]) {
 
+    } else if($_POST["multiplicacion"]) {
+
+    } else if($_POST["division"]) {
+
     } else {
         echo "No implementado";
     }
